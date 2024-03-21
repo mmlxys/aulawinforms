@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\loginteste1\loginteste1\obj\Debug\loginteste1.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\loginteste1\loginteste1\obj\Debug\loginteste1.Form1.resources
+C:\Users\Aluno\source\repos\loginteste1\loginteste1\obj\Debug\loginteste1.Properties.Resources.resources
+C:\Users\Aluno\source\repos\loginteste1\loginteste1\obj\Debug\loginteste1.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\loginteste1\loginteste1\obj\Debug\loginteste1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\loginteste1\loginteste1\bin\Debug\loginteste1.exe.config
+C:\Users\Aluno\source\repos\loginteste1\loginteste1\bin\Debug\loginteste1.exe
+C:\Users\Aluno\source\repos\loginteste1\loginteste1\bin\Debug\loginteste1.pdb
+C:\Users\Aluno\source\repos\loginteste1\loginteste1\obj\Debug\loginteste1.exe
+C:\Users\Aluno\source\repos\loginteste1\loginteste1\obj\Debug\loginteste1.pdb
